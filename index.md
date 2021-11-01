@@ -10,15 +10,11 @@ I'm Ian Melvin, I make games and other miscellaneous programming projects. I hav
 
 ### Game Engine (Class Project)
 
+{% include youtubePlayer.html id=page.youtubeId %}
+
 Description: A game engine developed in Visual Studios using c++, draws sprites, reads user input, uses an event system and was designed to have decoupled systems. Project is the set up for a team project to develop games in our engines.
 
 From September 2021 - Present
-
-### College Trivia App (Class Project)
-
-Description: Developed a file oriented trivia app for Android devices in Android Studio using Kotlin. The app has 3 trivia categories based around a college and its surrounding city. App switches between image selection response and word selection responses. User has access to a hint button which removes one incorrect answer. At the end of each category the user can choose and save their score to a local .txt file. 
-
-From September 2021 - October 2021
 
 ### Dead Pedal Drifting (Class Project)
 
