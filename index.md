@@ -6,6 +6,10 @@ youtubeId: -gOH9eGYC0U
 
 ## Projects
 
+### Engine
+
+### College Triva App
+
 ### Dead Pedal Drifting
 
 {% include youtubePlayer.html id=page.youtubeId %}
@@ -19,6 +23,10 @@ From March 2021 - May 2021
 Role: UI programmer
 
 What I did: Using UI designs from one of the teams designers, I implemented and programmed the UI, camera movement, and systems for the Garage/Hub
+
+### Discord Bot
+
+### OpenGL Shader project
 
 - Bulleted
 - List
