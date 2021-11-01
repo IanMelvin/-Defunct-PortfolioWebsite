@@ -4,21 +4,21 @@ youtubeId: -gOH9eGYC0U
 
 ## Ian Melvin
 
-You can use the [editor on GitHub](https://github.com/Zorlang/PortfolioWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Dead Pedal Drifting
 
-### Markdown
+{% include youtubePlayer.html id=page.youtubeId %}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Description: Single Player Game made in Unity. The players does quests in the waste land, destroying enemy cars and collecting their scrap metal with every quest complete giving a cash reward. Between mission the player can customize vehichle color and buy new weapons and improve the stats of the vehicle / weapons.
 
-```markdown
-Syntax highlighted code block
+Team size: 7
 
-# Header 1
-## Header 2
-### Header 3
+From March 2021 - May 2021
 
+Role: UI programmer
+
+What I did: Using UI designs from one of the teams designers, I implemented and programmed the UI for the Garage
 - Bulleted
 - List
 
