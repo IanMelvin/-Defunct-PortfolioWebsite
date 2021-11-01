@@ -10,7 +10,7 @@ youtubeId: -gOH9eGYC0U
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-Description: Single Player Game made in Unity. The players does quests in the waste land, destroying enemy cars and collecting their scrap metal with every quest complete giving a cash reward. Between mission the player can customize vehichle color and buy new weapons and improve the stats of the vehicle / weapons.
+Description: Singleplayer game made in Unity. The players does quests in the wasteland, destroying enemy cars and collecting their scrap metal with every quest completed giving a cash reward. Between quests the player can customize vehichle color, buy new weapons and stats upgrades for the vehicle / weapons.
 
 Team size: 7
 
