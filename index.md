@@ -7,11 +7,11 @@ I'm Ian Melvin, I make games and other miscellaneous programming projects. I hav
 
 ## Projects
 
-### Engine
+### Game Engine (Class Project)
 
-### College Triva App
+### College Triva App (Class Project)
 
-### Dead Pedal Drifting
+### Dead Pedal Drifting (Class Project)
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
@@ -25,6 +25,6 @@ Role: UI programmer
 
 What I did: Using UI designs from one of the teams designers, I implemented and programmed the UI, camera movement, and systems for the Garage/Hub
 
-### Discord Bot
+### Discord Bot (Personal Project)
 
-### OpenGL Shader project
+### OpenGL Shader project (Class Project)
