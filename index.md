@@ -3,7 +3,7 @@ youtubeId: -gOH9eGYC0U
 ---
 
 ## Ian Melvin
-I'm Ian Melvin, I make games and other miscellaneous programming projects. I have worked in Unity, Android Studios, and Shadertoy amongst other programms. Much of my experience programming is with C++ and C#, but I am familar with many languages such as Java Script, OpenGL, and Kotlin. My big passion is UI programming 
+I'm Ian Melvin, I make games and other miscellaneous programming projects. I have worked in Unity, Android Studios, and Shadertoy amongst other programs. Much of my experience programming is with C++ and C#, but I am familar with many other languages such as Java Script, OpenGL, and Kotlin. My biggest passion with programming is UI programming for video games.
 
 ## Projects
 
