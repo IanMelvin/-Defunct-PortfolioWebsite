@@ -28,3 +28,11 @@ What I did: Using UI designs from one of the teams designers, I implemented and 
 ### Discord Bot (Personal Project)
 
 ### OpenGL Shader project (Class Project)
+
+![Image](GraphicsProject.png)
+
+[Link to project](https://www.shadertoy.com/view/wsdcW4)
+
+Description: An OpenGl based project, made in shadertoy. This project displays Lambertian reflection, Blinn-Phong reflectance and cel shading.
+
+Made in October 2020
