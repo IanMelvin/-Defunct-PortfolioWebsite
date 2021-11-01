@@ -3,6 +3,7 @@ youtubeId: -gOH9eGYC0U
 ---
 
 ## Ian Melvin
+I'm Ian Melvin, I make games and other miscellaneous programming projects. I have worked in Unity, Android Studios, and Shadertoy amongst other programms. Much of my experience programming is with C++ and C#, but I am familar with many languages such as Java Script, OpenGL, and Kotlin. My big passion is UI programming 
 
 ## Projects
 
@@ -27,27 +28,3 @@ What I did: Using UI designs from one of the teams designers, I implemented and 
 ### Discord Bot
 
 ### OpenGL Shader project
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zorlang/PortfolioWebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-{% include youtubePlayer.html id=page.youtubeId %}
-
