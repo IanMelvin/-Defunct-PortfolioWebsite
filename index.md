@@ -18,7 +18,8 @@ From March 2021 - May 2021
 
 Role: UI programmer
 
-What I did: Using UI designs from one of the teams designers, I implemented and programmed the UI for the Garage
+What I did: Using UI designs from one of the teams designers, I implemented and programmed the UI, camera movement, and systems for the Garage/Hub
+
 - Bulleted
 - List
 
