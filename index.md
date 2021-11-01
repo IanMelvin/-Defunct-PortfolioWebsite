@@ -24,6 +24,8 @@ From September 2021 - October 2021
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+[Link to project](https://larnio.itch.io/dead-pedal-drifting)
+
 Description: Singleplayer game made in Unity. The player does quests in the wasteland, destroying enemy cars and collecting their scrap metal with every quest completed giving a cash reward. Between quests the player can customize vehicle color, buy new weapons and stats upgrades for the vehicle / weapons.
 
 Team size: 7
