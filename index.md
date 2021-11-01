@@ -6,7 +6,7 @@ youtubeId: -gOH9eGYC0U
 
 ## Projects
 
-# Dead Pedal Drifting
+### Dead Pedal Drifting
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
