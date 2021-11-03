@@ -1,6 +1,7 @@
 ---
 youtubeId: -gOH9eGYC0U
 discordBotId: XPqYCH3QulU
+engineId: 1Eru9qRVh1A
 ---
 
 ## Ian Melvin
@@ -10,7 +11,7 @@ I'm Ian Melvin, I make games and other miscellaneous programming projects. I hav
 
 ### Game Engine (Class Project)
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.engineId %}
 
 Description: A game engine developed in Visual Studios using c++, draws sprites, reads user input, uses an event system and was designed to have decoupled systems. Project is the set up for a team project to develop games in our engines.
 
