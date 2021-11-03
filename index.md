@@ -13,7 +13,7 @@ I'm Ian Melvin, I make games and other miscellaneous programming projects. I hav
 
 {% include youtubePlayer.html id=page.engineId %}
 
-Description: A game engine developed in Visual Studios using C++ which currently can draws sprites,uses an event system to communicated user input and was designed to have decoupled systems. Project is the set up for a team project to develop games in our engines. The video highlights main.cpp, the Game Class, and two of the Input classes.
+Description: A game engine developed in Visual Studios using C++. Currently the engine is set up with functionality to place/delete a sprite, freeze/unfreeze the sprite's animation, and exit the program. This is set up to be a demo and show that the engine works. This is the set up for a team based project to develop a game in my engine. The video highlights main.cpp, the Game Class, and two of the Input classes.
 
 From September 2021 - Present
 
