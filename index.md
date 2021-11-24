@@ -33,7 +33,7 @@ From March 2021 - May 2021
 
 Role: UI programmer
 
-What I did: Using UI designs from one of the team's designers, I implemented and programmed the UI, camera movement, and systems for the Garage/Hub
+What I did: Using UI designs from one of the team's designers, I implemented and programmed the UI, camera movement, and systems for the Garage/Hub.
 
 ### Raccoon-Dad's Feasts Far Away(Class Project)
 
