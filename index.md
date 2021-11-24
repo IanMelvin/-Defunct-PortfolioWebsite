@@ -35,7 +35,7 @@ Role: UI programmer
 
 What I did: Using UI designs from one of the team's designers, I implemented and programmed the UI, camera movement, and systems for the Garage/Hub
 
- ### Raccoon-Dad's Feasts Far Away(Class Project)
+### Raccoon-Dad's Feasts Far Away(Class Project)
 
 {% include youtubePlayer.html id=page.raccoondadID %}
 
